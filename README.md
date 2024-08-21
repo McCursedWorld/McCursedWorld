@@ -1,8 +1,4 @@
-Hier ist die vollständige README für das "Cursed Worlds"-Datapack:
-
----
-
-# Cursed Worlds Datapack
+Hier ist # Cursed Worlds Datapack
 
 ## Beschreibung
 
@@ -100,5 +96,3 @@ Hier ist die vollständige README für das "Cursed Worlds"-Datapack:
 Bei Fragen oder Problemen kannst du uns über [Discord](https://discord.gg/BbcURrCb) erreichen.
 
 Weitere Informationen findest du in der [CONTRIBUTING-Datei](https://github.com/McCursedWorld/McCursedWorld/blob/main/CONTRIBUTING.md).
-
----
