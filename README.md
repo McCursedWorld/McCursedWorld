@@ -1,8 +1,8 @@
-# Xois Cursed Worlds Datapack
+# Cursed Worlds Datapack
 
 ## Beschreibung
 
-**Xois Cursed Worlds** ist ein Minecraft-Datapack, das dir eine einzigartige Spielerfahrung mit benutzerdefinierten Mechaniken und Dimensionen bietet. Entdecke verschiedene Dimensionen, nutze spezielle Items und Fähigkeiten und meistere herausfordernde Abenteuer.
+**Cursed Worlds** ist ein Minecraft-Datapack, das dir eine einzigartige Spielerfahrung mit benutzerdefinierten Mechaniken und Dimensionen bietet. Entdecke verschiedene Dimensionen, nutze spezielle Items und Fähigkeiten und meistere herausfordernde Abenteuer.
 
 ## Features
 
