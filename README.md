@@ -95,4 +95,4 @@
 
 Bei Fragen oder Problemen kannst du uns über [Discord](https://discord.gg/BbcURrCb) erreichen.
 
-Weitere Informationen findest du in der [CONTRIBUTING](https://github.com/McCursedWorld/McCursedWorld/blob/main/CONTRIBUTING.md).
+Weitere Informationen findest du in der [CONTRIBUTING](https://github.com/McCursedWorld/McCursedWorld/blob/main/CONTRIBUTING.md). 
