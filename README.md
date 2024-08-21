@@ -55,10 +55,14 @@
 - **Kyuul**: Nutze Kyuuls Handelsangebote und sei vorsichtig bei seinen Angriffen. Kyuul kann nur mit Befehlen getötet werden und fügt starken Schaden zu.
 - **Astral Fähigkeiten**: Schalte automatische Totems frei und nutze Herzverlust für Astral Mana Regeneration.
 
+## Kein Bug, ein Feature
+
+- **Tag-Nacht-Rhythmus**: Der Tag-Nacht-Rhythmus ist beschädigt aufgrund zufälliger Anpassungen und wird dadurch gewollt unregelmäßig erscheinen.
+- **Kyuuls Attacken**: Die Angriffe von Kyuul können schwierig sein und enden nur durch Tod.
+
 ## Bekannte Probleme
 
-- **Tag-Nacht-Rhythmus**: Der Tag-Nacht-Rhythmus kann aufgrund zufälliger Anpassungen unregelmäßig erscheinen.
-- **Kyuuls Attacken**: Die Angriffe von Kyuul können schwierig sein und enden nur durch Tod.
+- **hmmm**: Werden wir sehen, was kommt.
 
 ## Zukünftige Updates
 
