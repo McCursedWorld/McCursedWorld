@@ -71,8 +71,8 @@
 
 ## Kontakt
 
-Bei Fragen oder Problemen kannst du uns über [https://discord.gg/BbcURrCb](https://discord.gg/BbcURrCb) erreichen.
-
+Bei Fragen oder Problemen kannst du uns über [Discord](https://discord.gg/BbcURrCb) erreichen.
+[McCursedWorld CONTRIBUTING](https://github.com/McCursedWorld/McCursedWorld/blob/main/CONTRIBUTING.md)
 
 <!---
 McCursedWorld/McCursedWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
