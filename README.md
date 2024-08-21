@@ -1,4 +1,4 @@
-Hier ist # Cursed Worlds Datapack
+# Cursed Worlds Datapack
 
 ## Beschreibung
 
