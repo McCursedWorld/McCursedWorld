@@ -1,3 +1,7 @@
+Hier ist die vollständige README für das "Cursed Worlds"-Datapack:
+
+---
+
 # Cursed Worlds Datapack
 
 ## Beschreibung
@@ -41,6 +45,28 @@
 - **Handel bei Kyuul**: Ab einer Herzanzahl von 3,5 Herzen kann Kyuul einen Zauberspruch zeigen, der einmalig 0,5 Herzen dauerhaft verliert. Dies wird bei einem Tod beibehalten.
 - **Astral Mana Regeneration**: Nach 20x Herzverlust erhält man 20 Astral Mana Regeneration pro Sekunde, die es dem Spieler ermöglicht, ohne Elytra zu fliegen.
 
+## Dimensionen
+
+### Hub
+![Hub](https://static.wikia.nocookie.net/minecraft_de_gamepedia/images/6/6a/Canvas_32-2_5.png/revision/latest?cb=20220830124207)
+- **Beschreibung**: Der zentrale Punkt für die Erkundung der anderen Dimensionen. Hier gibt es am Anfang abgesehen von Luft und der hubbase nichts.
+
+### Ozean
+![Ozean](https://static.wikia.nocookie.net/minecraft_de_gamepedia/images/d/d7/Gem%C3%A4lde_Wasser.png/revision/latest?cb=20220830114934)
+- **Beschreibung**: Eine Dimension, die nur aus Ozeanen besteht und keine Strukturen hat. Hier gibt es am Anfang abgesehen von Luft und der ozeanbase nichts.
+
+### Hell
+![Hell](https://static.wikia.nocookie.net/minecraft_de_gamepedia/images/b/b5/Gem%C3%A4lde_Feuer.png/revision/latest?cb=20220830114921)
+- **Beschreibung**: Eine feurige Dimension mit gefährlichen Lava-Strömen und Hitze. Basiert auf dem Nether, jedoch fließt Lava nun wie Wasser, sodass unendliche Quellen erstellt werden können. Außerdem gibt es hier die Möglichkeit, Wasser zu platzieren und sich ins Bett zu legen, ohne eine Explosion zu verursachen. Die Struktur-Generierung ist deaktiviert, es gibt keinen Wirrwald und keinen Karmesinwald. Die Netherdecke ist 20 Blöcke dicker. Hier gibt es am Anfang abgesehen von geschmolzenem Gestein und anderen Höllensteinen und der hellbase nichts.
+
+### Sky
+![Sky](https://static.wikia.nocookie.net/minecraft_de_gamepedia/images/4/49/Gem%C3%A4lde_Luft.png/revision/latest?cb=20220830114941)
+- **Beschreibung**: Eine Dimension über den Wolken, wo du die Freiheit des Himmels erleben kannst. Hier gibt es am Anfang abgesehen von Luft und der skybase nichts.
+
+### Stone
+![Stone](https://static.wikia.nocookie.net/minecraft_de_gamepedia/images/f/fb/Gem%C3%A4lde_Erde.png/revision/latest?cb=20220830114913)
+- **Beschreibung**: Eine solide Dimension im wahrsten Sinne des Wortes mit einer rauen, steinigen Umgebung. Oben gibt es normales Gestein, unten ist Deep Dark. Hier gibt es auch keine Strukturen, keine Höhlen oder Klippen und keine Sculk-Features. Hier gibt es am Anfang abgesehen von Gestein und der stonebase nichts.
+
 ## Installation
 
 1. **Herunterladen und Entpacken**: Lade das Datapack herunter und entpacke die Datei.
@@ -72,9 +98,7 @@
 ## Kontakt
 
 Bei Fragen oder Problemen kannst du uns über [Discord](https://discord.gg/BbcURrCb) erreichen.
-[McCursedWorld CONTRIBUTING](https://github.com/McCursedWorld/McCursedWorld/blob/main/CONTRIBUTING.md)
 
-<!---
-McCursedWorld/McCursedWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Weitere Informationen findest du in der [CONTRIBUTING-Datei](https://github.com/McCursedWorld/McCursedWorld/blob/main/CONTRIBUTING.md).
+
+---
