@@ -12,7 +12,22 @@ Vielen Dank für dein Interesse, McCursedWorld mitzugestalten! Hier sind einige 
 - Benutze [Code-Stilrichtlinien](https://t.me/+BnbI8h6lIngwZDYy) für eine konsistente Code-Basis.
 - Füge Tests hinzu, wenn du neue Funktionen implementierst oder Fehler behebst.
 
-## Kommunikation
+## Kommunikation & Code of Conduct
+# Verhaltenskodex
+
+Wir verpflichten uns zu einem respektvollen und inklusiven Umfeld. Hier sind einige Verhaltensregeln:
+
+- Behandle alle mit Respekt.
+- Keine Belästigung oder Diskriminierung.
+- Sei konstruktiv in deiner Kritik.
+
+## Konsequenzen
+
+Verstöße gegen diesen Kodex können zu Verwarnungen oder Sperren führen.
+
+## Kontakt
+- Wenn du verstöße melden möchtest, wende dich an unser Discord oder Telegram Team.
+
 
 - Trete unserem [Tg Diskussionsforum](https://t.me/virtualartisanbrotherhood) bei, um Fragen zu stellen und Ideen auszutauschen.
 
