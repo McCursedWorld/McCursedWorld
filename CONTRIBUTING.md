@@ -17,3 +17,7 @@ Vielen Dank für dein Interesse, McCursedWorld mitzugestalten! Hier sind einige 
 - Trete unserem [Tg Diskussionsforum](https://t.me/virtualartisanbrotherhood) bei, um Fragen zu stellen und Ideen auszutauschen.
 
 Wir freuen uns auf deine Beiträge!
+
+
+[zurück zur README](https://github.com/McCursedWorld/McCursedWorld/blob/main/README.md)
+
